@@ -1,2 +1,2 @@
 # Helheim
-Helheim is a game done during 101Hours Game Jam (1st Place btw)
+Helheim is a game made during 101Hours Game Jam (1st Place btw)
